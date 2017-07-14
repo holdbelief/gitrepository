@@ -6,3 +6,5 @@ Creating a new branch is quick AND simple.
 Creating a new branch "dev"
 
 modify by user2 on dev
+
+modify by user1 on dev
